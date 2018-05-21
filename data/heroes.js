@@ -1,4 +1,5 @@
-module.exports = [{
+module.exports = [
+{
   id: 1,
   heroName: "Spiderman",
   universe: "Marvel",
@@ -18,4 +19,5 @@ module.exports = [{
   heroName: "Luke Skywalker",
   universe: "LucasArts",
   numberOfMovies: 6
-}];
+  }
+];

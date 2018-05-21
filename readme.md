@@ -1,6 +1,6 @@
 # Express Practice
 
-##Objectives
+## Objectives
 - [Reference Serve Data to Clients Drill Readme and Rubric]
 - [Create project folder and Initialize Node app]
 - [Create .gitignore for node_modules]
@@ -19,8 +19,9 @@
 - [create conditional to return error message]
 - [test all routes and error on postman]
 
-##Resources
-- [link]()
-- [link]()
-- [link]()
-- [link]()
+## Resources
+- [Express Hello World example]("https://expressjs.com/en/starter/hello-world.html")
+- [app.get() docs]("https://expressjs.com/en/api.html#app.get.method")
+- [app.listen() docs]("https://expressjs.com/en/api.html#app.listen")
+- [request.params docs]("https://expressjs.com/en/api.html#req.params")
+- [response.json docs]("https://expressjs.com/en/api.html#res.json")
